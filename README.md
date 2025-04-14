@@ -1,13 +1,7 @@
 # HTB_Vault
 Writeups y análisis de máquinas, sherlocks y challenges de HackTheBox.
-
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│    H T B _ V A U L T                                   │
-│    Vault of Machines, Challenges and Sherlocks         │
-│                                                        │
-│    "You're gonna carry that weight."                   │
-└────────────────────────────────────────────────────────┘
+                                                            
+             Vault of Machines, Challenges and Sherlocks
 
 Repositorio personal de writeups, análisis de máquinas, sherlocks y challenges de Hack The Box.
 Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de enumeración hasta explotación avanzada y escaladas de privilegios.
@@ -31,3 +25,5 @@ Este vault busca ser más que una colección de writeups:
 Es un repositorio de crecimiento, errores, lecciones y evolución como profesional de la ciberseguridad.
 
 "You're gonna carry that weight."
+
+~See you space hacker~
