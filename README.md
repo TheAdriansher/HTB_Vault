@@ -1,17 +1,13 @@
 # HTB_Vault
 Writeups y análisis de máquinas, sherlocks y challenges de HackTheBox.
 
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│        ▄▄▄▄   ▄▄ • ▄▄▄▄▄ ▄▄▄· ▄▄▄▄· ▄▄▄▄▄ ▄ .▄▄▄▄ .        │
-│        ▀▄ █·▐█ ▀ ▪•██  ▐█ ▀█ ▐█ ▀█▪•██  ██▪▐█▀▄.▀·         │
-│        ▐▀▀▄ ▄█ ▀█▄ ▐█.▪▄█▀▀█ ▐█▀▀█▄ ▐█.▪██▀▐█▐▀▀▪▄         │
-│        ▐█•█▌▐█▄▪▐█ ▐█▌·▐█ ▪▐▌██▄▪▐█ ▐█▌·██▌▐▀▐█▄▄▌         │
-│        .▀  ▀·▀▀▀▀  ▀▀▀  ▀  ▀ ·▀▀▀▀  ▀▀▀ ▀▀▀ · ▀▀▀          │
-│                                                            │
-│         ✦ Vault of Machines, Challenges and Sherlocks ✦   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│    H T B _ V A U L T                                   │
+│    Vault of Machines, Challenges and Sherlocks         │
+│                                                        │
+│    "You're gonna carry that weight."                   │
+└────────────────────────────────────────────────────────┘
 
 Repositorio personal de writeups, análisis de máquinas, sherlocks y challenges de Hack The Box.
 Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de enumeración hasta explotación avanzada y escaladas de privilegios.
