@@ -163,3 +163,5 @@ sudo /usr/local/bin/bee ev "system('cat /root/root.txt')"
 - CMS inseguros (como Backdrop mal configurado) son vectores comunes de RCE.
 - Inspeccionar binarios o scripts que puedes ejecutar como `sudo`.
 - Evalúa cada permiso con calma: abuso de `sudo` suele ser clave para escalada.
+
+✨ Writeup by Adrian (@TheAdriansher)
