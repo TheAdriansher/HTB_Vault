@@ -5,17 +5,18 @@ Repositorio personal de writeups, análisis de máquinas, sherlocks y challenges
 Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de enumeración hasta explotación avanzada y escaladas de privilegios.
 
 📋 Contenido
-Machines 🖥️
-Writeups de máquinas clasificadas por dificultad (Easy, Medium, Hard).
 
-Challenges 🧩
-Soluciones y técnicas aplicadas en retos de categorías como Web, Crypto, Forensics, Misc, entre otros.
+* Machines 🖥️
+  Writeups de máquinas clasificadas por dificultad (Easy, Medium, Hard).
 
-Sherlocks 🕵️
-Análisis de casos de estudio y escenarios tipo laboratorio donde se aplican técnicas de investigación y ataque.
+* Challenges 🧩
+  Soluciones y técnicas aplicadas en retos de categorías como Web, Crypto, Forensics, Misc, entre otros.
 
-Resources 📚
-Herramientas útiles, metodologías y notas personales de aprendizaje.
+* Sherlocks 🕵️
+  Análisis de casos de estudio y escenarios tipo laboratorio donde se aplican técnicas de investigación y ataque.
+
+* Resources 📚
+  Herramientas útiles, metodologías y notas personales de aprendizaje.
 
 "No se trata solo de capturar flags, sino de construir conocimiento real."
 
