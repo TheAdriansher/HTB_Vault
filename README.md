@@ -1,14 +1,19 @@
 # HTB_Vault
 Writeups y análisis de máquinas, sherlocks y challenges de HackTheBox.
 
-```plaintext
- _   _ _____ ____    _   _     _    _     _           _ _   
-| | | |_   _| __ )  | | | |   | |  | |   (_)         (_) |  
-| |_| | | | |  _ \  | |_| |_  | |__| | __ _ _ __ ___  _| |_ 
-|  _  | | | | |_) | |  _  | | |  __  |/ _` | '_ ` _ \| | __|
-|_| |_| |_| |____/  |_| |_|_| |_|  |_|\__,_|_| |_| |_|_|\__|
-                                                            
-             Vault of Machines, Challenges and Sherlocks
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│        ▄▄▄▄   ▄▄ • ▄▄▄▄▄ ▄▄▄· ▄▄▄▄· ▄▄▄▄▄ ▄ .▄▄▄▄ .         │
+│        ▀▄ █·▐█ ▀ ▪•██  ▐█ ▀█ ▐█ ▀█▪•██  ██▪▐█▀▄.▀·         │
+│        ▐▀▀▄ ▄█ ▀█▄ ▐█.▪▄█▀▀█ ▐█▀▀█▄ ▐█.▪██▀▐█▐▀▀▪▄         │
+│        ▐█•█▌▐█▄▪▐█ ▐█▌·▐█ ▪▐▌██▄▪▐█ ▐█▌·██▌▐▀▐█▄▄▌         │
+│        .▀  ▀·▀▀▀▀  ▀▀▀  ▀  ▀ ·▀▀▀▀  ▀▀▀ ▀▀▀ · ▀▀▀          │
+│                                                            │
+│         ✦ Vault of Machines, Challenges and Sherlocks ✦    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
+                  ~ See you, space hacker ~
 
 Repositorio personal de writeups, análisis de máquinas, sherlocks y challenges de Hack The Box.
 Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de enumeración hasta explotación avanzada y escaladas de privilegios.
