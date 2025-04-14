@@ -1,7 +1,5 @@
 # HTB_Vault
 Writeups y análisis de máquinas, sherlocks y challenges de HackTheBox.
-                                                            
-             Vault of Machines, Challenges and Sherlocks
 
 Repositorio personal de writeups, análisis de máquinas, sherlocks y challenges de Hack The Box.
 Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de enumeración hasta explotación avanzada y escaladas de privilegios.
