@@ -151,7 +151,7 @@ cat root/root.txt
 
 ---
 
-##**Notas y Lecciones Aprendidas**
+## Notas y Lecciones Aprendidas
 - **Bypass de filtros:** Incluso cuando se eliminan `"../"`, hay formas creativas como manipular rutas para lograr path traversal.
 - **Backup scripts mal configurados:** Pueden ser una grave amenaza si se ejecutan como `sudo` sin correcta validación de paths.
 - **Importancia de la validación de entrada:** Sanitizar correctamente la entrada del usuario es crítico en aplicaciones web y scripts.
