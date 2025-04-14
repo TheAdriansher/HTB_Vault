@@ -6,7 +6,7 @@ Documenta mi progreso en ciberseguridad ofensiva y defensiva, desde técnicas de
 
 📋 Contenido
 
-* Machines 🖥️
+* Machines 🖥️ 
   Writeups de máquinas clasificadas por dificultad (Easy, Medium, Hard).
 
 * Challenges 🧩
